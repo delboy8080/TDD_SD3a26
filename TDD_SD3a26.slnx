@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TDD_SD3a26/TDD_SD3a26.vcxproj" />
+  <Project Path="TestShoppingCart/TestShoppingCart.vcxproj" />
+</Solution>
